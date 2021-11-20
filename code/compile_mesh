@@ -1,0 +1,6 @@
+#！/bin/bash                     //必需
+command mkdir "build"
+command cd build
+command cmake ..
+command make
+echo "the executable target program called mesher is in the build directory."
