@@ -1,0 +1,3 @@
+/Users/wangyu/Desktop/利兹上课资料/9月份学期/图形学两门课/5821/作业1/我自己的作业1/submit/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangyu/Desktop/利兹上课资料/9月份学期/图形学两门课/5821/作业1/我自己的作业1/submit/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangyu/Desktop/利兹上课资料/9月份学期/图形学两门课/5821/作业1/我自己的作业1/submit/code/cmake-build-debug/CMakeFiles/mesher.dir
